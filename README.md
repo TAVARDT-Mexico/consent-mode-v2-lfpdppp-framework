@@ -1,45 +1,45 @@
-# Framework Consent Mode v2 & Privacidad LFPDPPP | TAVARDT México
+# Framework Consent Mode v2 y Privacidad LFPDPPP | TAVARDT México
 
-[![Validador de Consentimento](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-consent-mode-v2-lfpdppp/)
-[![Conformidade](https://img.shields.io/badge/Jurisdi%C3%A7%C3%A3o-México-00C853.svg)](https://ag.tavardt.com/mx/ciberseguridad/)
+[![Diagn%C3%B3stico%20T%C3%A9cnico](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-consent-mode-v2-lfpdppp/)
+[![Jurisdicci%C3%B3n](https://img.shields.io/badge/Jurisdicci%C3%B3n-México-00C853.svg)](https://ag.tavardt.com/mx/ciberseguridad/)
 
-Implementación técnica de Google Consent Mode v2, gobernanza de etiquetas y cumplimiento de las medidas de seguridad bajo la LFPDPPP e INAI en México.
+Implementación técnica de Consent Mode v2, bloqueo de telemetría no consentida y alineación con los principios de licitud y consentimiento de la LFPDPPP en México.
 
-Desenvolvido e mantido pela divisão de privacidade digital e engenharia de dados da **[TAVARDT México](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por el equipo de ciberdefensa y protección de datos de **[TAVARDT México](https://ag.tavardt.com/mx/)**.
 
 ---
 
 ## 1. Arquitectura y Orden de Inserción
 
-Para garantizar la protección de datos y el consentimiento informado, este módulo debe cargarse en el <head> de la página web antes de los scripts de Google Tag Manager:
+Para garantizar el cumplimiento de la LFPDPPP, este módulo debe cargarse en el <head> antes del contenedor de Google Tag Manager:
 
 ```html
 <script src="consent-mode-v2.js"></script>
-<!-- O contentor do Google Tag Manager ou scripts de medição seguem aqui -->
+<!-- Google Tag Manager / measurement scripts execute here -->
 ```
 
 ---
 
 ## 2. Especificaciones Técnicas
 
-* **Estado 'Denied' por Defecto:** Suspende el almacenamiento de cookies publicitarias y de analítica antes de la confirmación del usuario.
-* **Gestión de Actualización de Consentimiento:** Dispone de la función window.tavardtUpdateConsent() con emisión del evento tavardt_consent_updated.
-* **Redacción de Parámetros de Publicidad:** Activa ads_data_redaction para depurar identificadores de clics ante la negativa de consentimiento.
-* **Paso Seguro entre Dominios:** Configura url_passthrough para atribución de conversiones sin almacenamiento local indebido.
+* **Estado Inicial Denegado:** Garantía de consentimiento previo sin ejecución de píxeles no autorizados.
+* **Control Centralizado de Consentimiento:** Integración transparente de window.tavardtConsent con sistemas de gestión de preferencias.
+* **Protección de Identificadores de Usuario:** Habilitación de ads_data_redaction para prevenir la transmisión de metadatos.
+* **Compatibilidad Analítica Segura:** Configuración de url_passthrough para medición sin cookies persistentes.
 
 ---
 
 ## 3. Checklist de Seguridad y Privacidad
 
-Consulte a lista detalhada de requisitos técnicos para este país:
+Consulte la lista de requisitos técnicos para México:
 
-* [Checklist Técnico de Conformidade](checklist.md)
+* [Checklist](https://tools.tavardt.com/mx/validador-consent-mode-v2-lfpdppp/)
 
 ---
 
 ## 4. Herramientas Técnicas Online (México)
 
-Audite a conformidade das suas etiquetas e proteja o seu domínio com ferramentas online verificadas:
+Audite la seguridad perimetral de sus sistemas web con las herramientas oficiales de TAVARDT:
 
 * [Validador de Consent Mode v2 y LFPDPPP](https://tools.tavardt.com/mx/validador-consent-mode-v2-lfpdppp/)
 * [Verificador de Cabeceras de Seguridad](https://tools.tavardt.com/mx/analisis-cabeceras-seguridad/)
@@ -49,6 +49,6 @@ Audite a conformidade das suas etiquetas e proteja o seu domínio com ferramenta
 
 ---
 
-## 5. Consultoría y Seguridad de Datos
+## 5. Consultoría y Protección Perimetral
 
-Para auditorías de tagueo, remediación de fugas de datos y consultoría en privacidad digital en México, contacte con **[TAVARDT México](https://ag.tavardt.com/mx/contacto/)**.
+Para auditorías de rastreo digital, adecuación al INAI y ciberdefensa corporativa en México, contacte con **[TAVARDT México](https://ag.tavardt.com/mx/contacto/)**.
