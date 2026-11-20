@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-mx/consent-mode-v2-framework",
+  "version": "1.0.0",
+  "description": "Implementación técnica de Google Consent Mode v2, gobernanza de etiquetas y cumplimiento de la LFPDPPP y recomendaciones del INAI en México.",
+  "license": "MIT",
+  "author": "TAVARDT México (https://ag.tavardt.com/mx/)"
+}
