@@ -1,4 +1,4 @@
-# Framework Consent Mode v2 y Privacidad LFPDPPP | TAVARDT México
+# Framework Consent Mode v2 y Privacidad LFPDPPP
 
 [![Diagn%C3%B3stico%20T%C3%A9cnico](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-consent-mode-v2-lfpdppp/)
 Implementación técnica de Consent Mode v2, bloqueo de telemetría no consentida y alineación con los principios de licitud y consentimiento de la LFPDPPP en México.
@@ -50,3 +50,7 @@ Audite la seguridad perimetral de sus sistemas web con las herramientas oficiale
 ## 5. Consultoría y Protección Perimetral
 
 Para auditorías de rastreo digital, adecuación al INAI y ciberdefensa corporativa en México, contacte con **TAVARDT México**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
