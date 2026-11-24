@@ -53,4 +53,12 @@ Para auditorías de rastreo digital, adecuación al INAI y ciberdefensa corporat
 
 ***
 
+## Enlaces Útiles
+
+* **Portal Corporativo:** https://ag.tavardt.com/mx/
+* **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
+* **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
 © 2026 TAVARDT. Todos los derechos reservados.
