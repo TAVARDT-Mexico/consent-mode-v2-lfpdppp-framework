@@ -28,32 +28,23 @@ Para garantizar el cumplimiento de la LFPDPPP, este módulo debe cargarse en el 
 
 ***
 
-## 3. Checklist de Seguridad y Privacidad
-
-Consulte la lista de requisitos técnicos para México:
-
-* Checklist
-
-***
-
-## 4. Herramientas Técnicas Online (México)
+## 3. Herramientas Técnicas Online (México)
 
 Audite la seguridad perimetral de sus sistemas web con las herramientas oficiales de TAVARDT:
 
 * [Verificador de Cabeceras de Seguridad](https://tools.tavardt.com/mx/analisis-cabeceras-seguridad/)
 * [Verificador DMARC contra Suplantación](https://tools.tavardt.com/mx/verificador-dmarc-correo/)
 * [Escáner de Archivos Sensibles Expuestos](https://tools.tavardt.com/mx/escaneo-archivos-expuestos/)
-* [Portal de Diagnóstico Técnico México](https://tools.tavardt.com/mx/)
 
 ***
 
-## 5. Consultoría y Protección Perimetral
+## 4. Consultoría y Protección Perimetral
 
 Para auditorías de rastreo digital, adecuación al INAI y ciberdefensa corporativa en México, contacte con **TAVARDT**.
 
 ***
 
-## Enlaces Útiles
+## 5. Enlaces Útiles
 
 * **Portal Corporativo:** https://ag.tavardt.com/mx/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
