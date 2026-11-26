@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/mx/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Framework Consent Mode v2 y Conformidad Técnica LFPDPPP
 
 [![Diagnóstico Técnico](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/mx/validador-consent-mode-v2-lfpdppp/)
